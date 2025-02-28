@@ -1,0 +1,12 @@
+# Ignore environment files
+.env
+
+# Ignore Firebase & Firebase JSON files
+solana-farasbots-firebase-adminsdk-fbsvc-da2bd53bc4.json
+
+# Ignore  Wallet JSON files
+sches-wallet.json
+
+# Ignore  privatkey JSON files
+
+privateKeys.json
