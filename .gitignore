@@ -1,0 +1,4 @@
+# Ignore service account JSON files
+*.json
+!package.json
+!tsconfig.json
